@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Doogle/static/css/main.a141b447.chunk.css",
+    "main.js": "/Doogle/static/js/main.1a8ea745.chunk.js",
+    "main.js.map": "/Doogle/static/js/main.1a8ea745.chunk.js.map",
+    "runtime-main.js": "/Doogle/static/js/runtime-main.6533095d.js",
+    "runtime-main.js.map": "/Doogle/static/js/runtime-main.6533095d.js.map",
+    "static/js/2.a1e59259.chunk.js": "/Doogle/static/js/2.a1e59259.chunk.js",
+    "static/js/2.a1e59259.chunk.js.map": "/Doogle/static/js/2.a1e59259.chunk.js.map",
+    "index.html": "/Doogle/index.html",
+    "static/css/main.a141b447.chunk.css.map": "/Doogle/static/css/main.a141b447.chunk.css.map",
+    "static/js/2.a1e59259.chunk.js.LICENSE.txt": "/Doogle/static/js/2.a1e59259.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6533095d.js",
+    "static/js/2.a1e59259.chunk.js",
+    "static/css/main.a141b447.chunk.css",
+    "static/js/main.1a8ea745.chunk.js"
+  ]
+}
